@@ -25,6 +25,11 @@
 /* Begin PBXFileReference section */
 		A9F0D9EF2CCD5AF800DE55A6 /* cose354-project1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "cose354-project1"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9F0D9F22CCD5AF800DE55A6 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		A9F0D9F92CCE322A00DE55A6 /* s_box_3.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = s_box_3.csv; sourceTree = "<group>"; };
+		A9F0D9FA2CCE322A00DE55A6 /* permutation.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = permutation.csv; sourceTree = "<group>"; };
+		A9F0D9FB2CCE322A00DE55A6 /* s_box_1.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = s_box_1.csv; sourceTree = "<group>"; };
+		A9F0D9FC2CCE322A00DE55A6 /* s_box_4.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = s_box_4.csv; sourceTree = "<group>"; };
+		A9F0D9FD2CCE322A00DE55A6 /* s_box_2.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = s_box_2.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +62,11 @@
 		A9F0D9F12CCD5AF800DE55A6 /* cose354-project1 */ = {
 			isa = PBXGroup;
 			children = (
+				A9F0D9FA2CCE322A00DE55A6 /* permutation.csv */,
+				A9F0D9FB2CCE322A00DE55A6 /* s_box_1.csv */,
+				A9F0D9FD2CCE322A00DE55A6 /* s_box_2.csv */,
+				A9F0D9F92CCE322A00DE55A6 /* s_box_3.csv */,
+				A9F0D9FC2CCE322A00DE55A6 /* s_box_4.csv */,
 				A9F0D9F22CCD5AF800DE55A6 /* main.c */,
 			);
 			path = "cose354-project1";
